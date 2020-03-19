@@ -32,6 +32,6 @@ _This document has nothing special. Just .html code._
 
 ### License
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Thomas Glenn_**
 
 This software is licensed under the MIT license. 
