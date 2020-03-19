@@ -22,9 +22,9 @@ _There are no known bugs to this software. It could be more awesome, however..._
 
 ## Support and contact details
 
-_If you have any concerns or questions, please don't hesitate to contact me. I welcome any suggestions and advice regarding the code and contact of this webpage. 
+_If you have any concerns or questions, please don't hesitate to contact me. I welcome any suggestions and advice regarding the code and contact of this webpage._
 
-*Thomas Glenn: glenaissance@yahoo.com; 415-216-3317_
+*Thomas Glenn: glenaissance@yahoo.com; 415-216-3317
 
 ## Technologies Used
 
